@@ -1,0 +1,2 @@
+--- INSERCION ---
+db.dispositivos.insertOne({MAC:'123456789',Marca:'Pocophone',Modelo:'X4 GT',Tipo:'Smarthphone'})
